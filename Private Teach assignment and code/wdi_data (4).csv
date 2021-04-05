@@ -1,0 +1,37 @@
+,Year,SH.XPD.PVTD.CH.ZS,SP.DYN.LE00.IN,NY.GDS.TOTL.CD,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,69.78610992,69.881,23989603515.5883,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1,2011,70.25331116,70.256,26527823348.2175,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2,2012,70.16964722,70.606,28303107726.8189,BGD,Bangladesh,South Asia,Lower middle income,IDA
+3,2013,70.93682861,70.93,33052037339.8821,BGD,Bangladesh,South Asia,Lower middle income,IDA
+4,2014,72.38652039,71.231,38190297283.2136,BGD,Bangladesh,South Asia,Lower middle income,IDA
+5,2015,74.3429718,71.514,43226450765.1659,BGD,Bangladesh,South Asia,Lower middle income,IDA
+6,2016,75.76673889,71.785,55304530487.5478,BGD,Bangladesh,South Asia,Lower middle income,IDA
+7,2017,76.56324768,72.052,63249934069.7591,BGD,Bangladesh,South Asia,Lower middle income,IDA
+8,2018,76.50183868,72.32,62576272936.9157,BGD,Bangladesh,South Asia,Lower middle income,IDA
+9,2010,24.30069351,79.987804878,860232226291.004,DEU,Germany,Europe & Central Asia,High income,Not classified
+10,2011,24.5922699,80.4365853659,993892789985.043,DEU,Germany,Europe & Central Asia,High income,Not classified
+11,2012,24.570158,80.5390243902,910625500085.599,DEU,Germany,Europe & Central Asia,High income,Not classified
+12,2013,23.58358574,80.4902439024,963504153557.748,DEU,Germany,Europe & Central Asia,High income,Not classified
+13,2014,22.98678017,81.0902439024,1048220487121.02,DEU,Germany,Europe & Central Asia,High income,Not classified
+14,2015,23.04540443,80.6414634146,917534273151.427,DEU,Germany,Europe & Central Asia,High income,Not classified
+15,2016,22.73999023,80.9902439024,948163377172.516,DEU,Germany,Europe & Central Asia,High income,Not classified
+16,2017,22.28827095,80.9926829268,1025347212055.3,DEU,Germany,Europe & Central Asia,High income,Not classified
+17,2018,22.31568336,80.8926829268,1099080114593.72,DEU,Germany,Europe & Central Asia,High income,Not classified
+18,2010,72.82318115,66.693,574192061044.023,IND,India,South Asia,Lower middle income,IBRD
+19,2011,70.25712585,67.13,596289583664.952,IND,India,South Asia,Lower middle income,IBRD
+20,2012,71.06796265,67.545,600473890744.379,IND,India,South Asia,Lower middle income,IBRD
+21,2013,76.65864563,67.931,595247914549.791,IND,India,South Asia,Lower middle income,IBRD
+22,2014,75.58837891,68.286,640926836175.822,IND,India,South Asia,Lower middle income,IBRD
+23,2015,73.64810944,68.607,642949590479.391,IND,India,South Asia,Lower middle income,IBRD
+24,2016,72.51978302,68.897,697530708985.866,IND,India,South Asia,Lower middle income,IBRD
+25,2017,72.06218719,69.165,802022613214.822,IND,India,South Asia,Lower middle income,IBRD
+26,2018,72.35105896,69.416,802739570393.963,IND,India,South Asia,Lower middle income,IBRD
+27,2010,51.36202621,78.5414634146,2296073727000.0,USA,United States,North America,High income,Not classified
+28,2011,51.32531357,78.6414634146,2389718104000.0,USA,United States,North America,High income,Not classified
+29,2012,51.44789124,78.7414634146,2674213349000.0,USA,United States,North America,High income,Not classified
+30,2013,51.03407669,78.7414634146,2935633196000.0,USA,United States,North America,High income,Not classified
+31,2014,49.79465103,78.8414634146,3138992695000.0,USA,United States,North America,High income,Not classified
+32,2015,49.30077362,78.6902439024,3319595440000.0,USA,United States,North America,High income,Not classified
+33,2016,49.61272049,78.5390243902,3284143538000.0,USA,United States,North America,High income,Not classified
+34,2017,49.7457962,78.5390243902,3436295692000.0,USA,United States,North America,High income,Not classified
+35,2018,49.5871315,78.5390243902,3695588776000.0,USA,United States,North America,High income,Not classified
